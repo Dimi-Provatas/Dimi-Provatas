@@ -1,19 +1,19 @@
-### Greatings, I am Dimitris, a highly motivated Full Stack and Game Developer. I am always motivated to learn new technologies and sharpen my skills!
+### Greatings, I am Dimitris, a highly motivated Backend Engineer and Game Developer. I am always motivated to learn new technologies and sharpen my skills!
 
-## I currently work as a backend software developer at AnyDesk.
+## I currently work as a backend software engineer and team lead at AnyDesk.
 I have also worked at:
 - **INVRTUAL GmbH**
 - **CWA**
 
 ## Get to know me!
 - :muscle: I have my [portfolio site], that displays all of my (personal, publicly available) work. Feel free to take a look around! You might find something you like!
-- :computer: I currently work with ReactJS for frontend apps, NestJS for backend apps and Unity for games / VR modules!
-- :page_facing_up: My main languages are Typescript and Rust for work and C# for Game Development, but I learn to work with low level languages, such as Go and C++!
+- :computer: My main language is Rust, but I have strong experience with TypeScript and other, both high and low level!
 - :rainbow: My dream is to make my very own game engine with Rust one day!
 - :eyeglasses: I have worked on native iOs and Android projects, as well as with hybrid apps with Angular and Ionic, Capacitor and Cordova! I also have Flutter and Dart projects.
 - :notes: I love writing songs and playing the bass guitar!
 - :joystick: I am a huge gaming fan, currently playing VR and story-focused games mainly!
-- :sparkles: At the end of January 2021, we launched a full-stack solution for a friend's online magazine, using Laravel and VueJS-NuxtJS. You can check it out here: [Banal Magazine][banal]
+- :sparkles: At the end of January 2021, we launched a full-stack CMS solution for a friend's online magazine, using Laravel and VueJS-NuxtJS. You can check it out here: [Banal Magazine][banal]
+- :cloud_with_rain: Unfortunatelly, I have been slacking on my personal projects in the past few years, but I am always open to work with new people and contribute as much as I can!
 
 ---
 
