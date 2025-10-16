@@ -1,4 +1,4 @@
-### Greatings, I am Dimitris, a highly motivated Backend Engineer and Game Developer. I am always motivated to learn new technologies and sharpen my skills!
+### Heyo, I am Dimi, a highly motivated Backend Engineer and Game Developer. I am always motivated to learn new technologies and sharpen my skills!
 
 ## I currently work as a backend software engineer and team lead at AnyDesk.
 I have also worked at:
